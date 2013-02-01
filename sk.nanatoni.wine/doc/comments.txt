@@ -1,0 +1,3 @@
+delete do laboratoria
+new column zmatky pre ppm
+new calculating for ppm (zmatky pre ppm)/(zmatky pre ppm + produced)

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/home/vpakan/jbdevstudio500beta3/studio/plugins/org.eclipse.jface_3.7.0.v20110928-1505.jar"/>
+	<classpathentry kind="lib" path="/home/vpakan/jbdevstudio500CR1/studio/plugins/org.eclipse.core.commands_3.6.0.I20110111-0800.jar"/>
+	<classpathentry kind="lib" path="/home/vpakan/jbdevstudio500beta3/studio/plugins/org.eclipse.swt.gtk.linux.x86_3.7.2.v3740f.jar"/>
+	<classpathentry kind="lib" path="/home/vpakan/jbdevstudio500beta3/studio/plugins/org.eclipse.equinox.common_3.6.0.v20110523.jar"/>
+	<classpathentry kind="lib" path="/opt/jboss-eap-5.1/seam/lib/dom4j.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

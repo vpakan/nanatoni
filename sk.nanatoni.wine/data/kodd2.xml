@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<wine>
+  <wineCode>kodd2</wineCode>
+  <fullName>nazov2khhhhhhhhhhhhhhhhhhhhhhh</fullName>
+  <producer>vyrobca2</producer>
+  <sysDate>10.05.2012T21:35:41.604</sysDate>
+  <buyingPrice>2222.0</buyingPrice>
+  <sellingPrice>2222662.0</sellingPrice>
+  <minimalAmount>10.0</minimalAmount>
+  <year>2</year>
+  <comment>2</comment>
+  <regals>
+    <regal>
+      <sysDate>16.04.2012T13:41:31.785</sysDate>
+      <posX>1</posX>
+      <posY>7</posY>
+      <amount>8.0</amount>
+    </regal>
+    <regal>
+      <sysDate>16.04.2012T14:06:19.466</sysDate>
+      <posX>4</posX>
+      <posY>8</posY>
+      <amount>1.0</amount>
+    </regal>
+    <regal>
+      <sysDate>03.05.2012T20:53:15.966</sysDate>
+      <posX>1</posX>
+      <posY>0</posY>
+      <amount>121.0</amount>
+    </regal>
+  </regals>
+</wine>

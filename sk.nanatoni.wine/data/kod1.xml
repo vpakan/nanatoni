@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<wine>
+  <wineCode>kod1</wineCode>
+  <fullName>nazov1</fullName>
+  <producer>vyrobca1</producer>
+  <sysDate>19.04.2012T20:19:12.832</sysDate>
+  <buyingPrice>11.0</buyingPrice>
+  <sellingPrice>22.0</sellingPrice>
+  <minimalAmount>888.0</minimalAmount>
+  <year>1</year>
+  <comment>dflkg klsd;l jds ;msd;l d;hm;smd gfs</comment>
+  <regals>
+    <regal>
+      <sysDate>19.04.2012T20:09:38.864</sysDate>
+      <posX>1</posX>
+      <posY>6</posY>
+      <amount>5.0</amount>
+    </regal>
+  </regals>
+</wine>

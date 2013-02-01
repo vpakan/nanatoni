@@ -1,0 +1,37 @@
+Od: 01.02.2012 Do: 29.02.2012 Datum vytvorenia reportu: 11.02.2012T19:28:27.952
+
+                                                                                                                                                                                       Kazovost vyrobku za obdobie                                                                                                                                                                                        
+
+Cislo vyr.       Vyrobene Nabehove  Prelis.      ppm Nedolis.      ppm  Zhorene      ppm Spi. Fl.      ppm  Deform.      ppm NOK zal.      ppm Chyb. z.      ppm Zla p.z.      ppm  Bubliny      ppm P. forma      ppm P. stroj      ppm P. peri.      ppm S.p.p.p.      ppm NOK roz.      ppm N. stroj      ppm N. forma      ppm N. peri.      ppm Zma.-ppm      ppm   Zmatky      ppm  Sp.-ppm    Spolu
+
+CV1                   500        1        2     2985        3     4478        4     5970        5     7463        6     8955        7    10448        8    11940        9    13433       10    14925       11    16418       12    17910       13    19403       14    20896       15    22388       16    23881       17    25373       18    26866      170   253731      171   254844      670      671
+CV2                  5000       11       12     2247       13     2434       14     2622       15     2809       16     2996       17     3184       18     3371       19     3558       20     3745       21     3933       22     4120       23     4307       24     4494       25     4682       26     4869       27     5056       28     5243      340    63670      351    65595     5340     5351
+
+Spolu                5500       12       14     2329       16     2662       18     2995       20     3328       22     3661       24     3993       26     4326       28     4659       30     4992       32     5324       34     5657       36     5990       38     6323       40     6656       42     6988       44     7321       46     7654      510    84859      522    86682     6010     6022
+
+Legenda:
+
+Cislo vyr. - Cislo vyrobku
+Vyrobene - pocet vyrobenych nekazovych kusov
+Nabehove - Nabehove (spustenie, udrzba)
+Prelis. - Prelisovane v procese
+Nedolis. - Nedolisovane v procese
+Zhorene - Zhorene
+Spi. Fl. - Spinave + flaky
+Deform. - Deformacie
+NOK zal. - NOK zalisok
+Chyb. z. - Chybajuci zalisok
+Zla p.z. - Zla poloha zalisku
+Bubliny - Bubliny
+P. forma - Prelisovane - forma
+P. stroj - Prelisovane - stroj
+P. peri. - Prelisovane - periferie
+S.p.p.p. - Stabilizacia procesu po probleme
+NOK roz. - NOK rozmer
+N. stroj - Nedolisovane - stroj
+N. forma - Nedolisovane - forma
+N. peri. - Nedolisovane - periferie
+Zma.-ppm - suma zmatkov pre vypocet ppm
+Zmatky - suma vsetkych zmatkov aj s nabehovymi kusmi
+Sp.-ppm - suma zmatkov pre vypocet ppm a vyrobenych nekazovych kusov
+Spolu - suma vyrobenych nekazovych kusov a vsetkych zmatkov

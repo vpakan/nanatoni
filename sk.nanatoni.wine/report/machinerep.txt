@@ -1,0 +1,7 @@
+Od: 01.02.2012 Do: 29.02.2012 Datum vytvorenia reportu: 26.02.2012T20:26:47.329
+
+      Efektivnost stroja za obdobie      
+
+ID stroja.            Efektivita stroja %
+
+ID01                            76.233184

@@ -1,0 +1,5 @@
+Datum vytvorenia reportu: 15.02.2012T12:25:39.927
+
+                      Rozpracovane objednavky                       
+
+C.o. Cislo vyr.         Datum o.  Planov.   Hotove  Dorobit Hotove %
