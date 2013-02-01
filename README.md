@@ -1,4 +1,6 @@
-nanatoni
-========
+Na Natoni
+=========
 
-Wine cellar evidence
+Wine cellar warehouse evidence. Java project created Eclispe for Java.
+
+Distrbuted as standalone jar file
